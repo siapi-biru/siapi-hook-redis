@@ -1,0 +1,31 @@
+{
+  "name": "siapi-hook-redis",
+  "version": "3.6.5",
+  "description": "Redis hook for the Siapi framework",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "ioredis": "^4.27.1",
+    "lodash": "4.17.21",
+    "rimraf": "3.0.2",
+    "stack-trace": "0.0.10",
+    "siapi-utils": "github:siapi-biru/siapi-utils#v3.6.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/siapi-biru/siapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siapi-biru/siapi/issues"
+  },
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "gitHead": "231263a3535658bab1e9492c6aaaed8692d62a53"
+}
