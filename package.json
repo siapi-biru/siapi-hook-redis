@@ -11,7 +11,7 @@
     "lodash": "4.17.21",
     "rimraf": "3.0.2",
     "stack-trace": "0.0.10",
-    "siapi-utils": "github:siapi-biru/siapi-utils#v3.6.5"
+    "siapi-utils": "github:siapi-biru/siapi-utils"
   },
   "repository": {
     "type": "git",
